@@ -1,0 +1,14 @@
+@import "./custom_colors";
+
+.auth{
+    display: flex;
+    background-color: $custom-purple;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.register{
+    padding: 50px;
+    background-color: white;
+}

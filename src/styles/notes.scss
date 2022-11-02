@@ -1,0 +1,27 @@
+@import './custom_colors';
+
+.notes{
+    height: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.bm-menu {
+    background: white;
+    padding-top: 10px;
+}
+
+div.list-group-item.active {
+    color: rgb(48, 48, 48);
+    background-color: #e4e4e4;
+    border-color: #e4e4e4
+}
+
+.notes-editor {
+    padding: 0px;
+    height: calc(100% - 43px);
+
+    .quill {
+        height: 100%;
+    }
+}

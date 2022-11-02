@@ -1,0 +1,14 @@
+@import "./custom_colors";
+
+.config{
+    display: flex;
+    background-color: $custom-purple;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.edit{
+    padding: 50px;
+    background-color: white;
+}

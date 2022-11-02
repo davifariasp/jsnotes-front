@@ -1,0 +1,10 @@
+@import "./custom_colors";
+
+.home{
+    display: flex;
+    background-color: $custom-purple;
+    height: 100%;
+    align-items: center;
+}
+
+

@@ -1,0 +1,18 @@
+@import "./custom_colors";
+
+.navbar.container {
+    height: 70px;
+}
+
+.navbar-logged{
+    background-color: $custom-purple;
+}
+
+button.navbar-toggler{
+    background-color:white;
+}
+
+.btn-roxo{
+    color: white;
+    background-color: $custom-purple-darker;
+}
