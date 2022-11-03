@@ -44,7 +44,7 @@ function HeaderEdit() {
                             </Nav.Item>
                             
                             <Nav.Item>
-                                <Nav.Link className='text-white' onClick={logout}><FontAwesomeIcon icon={faRightFromBracket} /> Logaut</Nav.Link>
+                                <Nav.Link className='text-white' onClick={logout}><FontAwesomeIcon icon={faRightFromBracket} /> Logout</Nav.Link>
                             </Nav.Item>
                                                    
                         </Nav>
